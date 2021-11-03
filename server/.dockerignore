@@ -1,0 +1,11 @@
+# Ignore everything
+**
+
+# Allow files and directories
+!/publish/**
+
+# Ignore unnecessary files inside allowed directories
+**/*.less
+**/*.pdb
+**/*.cmd
+**/*.exe

@@ -1,0 +1,970 @@
+2021-10-29 09:04:05.785 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:04:05.785 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:04:05.864 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:04:05.864 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:04:05.897 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:04:08.987 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:04:09.060 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:04:11.026 +05:00 [INF] https://nnmclub.to/forum/viewtopic.php?t=1039319 : Жемчужина Нила / The Jewel of the Nile (1985) BDRip [H.264/1080p-LQ] : http://s018.radikal.ru/i528/1607/b3/f971d86f88af.jpg
+2021-10-29 09:04:12.129 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:04:12.216 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:04:13.553 +05:00 [INF] Parsing completed
+2021-10-29 09:04:18.559 +05:00 [INF] https://nnmclub.to/forum/viewtopic.php?t=1039319 : Жемчужина Нила / The Jewel of the Nile (1985) BDRip [H.264/1080p-LQ] : http://s018.radikal.ru/i528/1607/b3/f971d86f88af.jpg
+2021-10-29 09:04:18.909 +05:00 [ERR] An error occurred while updating the entries. See the inner exception for details.
+2021-10-29 09:04:18.909 +05:00 [INF] Parsing completed
+2021-10-29 09:04:20.276 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:04:20.277 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:04:22.077 +05:00 [INF] Parsing completed
+2021-10-29 09:04:35.251 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:04:35.252 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:04:37.055 +05:00 [INF] Parsing completed
+2021-10-29 09:26:42.931 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:26:43.022 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:26:57.672 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:26:57.673 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:26:57.763 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:00.834 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:00.905 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:03.975 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:04.051 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:07.122 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:07.190 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:10.263 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:10.333 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:12.707 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:27:12.708 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:27:13.404 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:13.519 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:15.704 +05:00 [INF] Parsing completed
+2021-10-29 09:27:15.779 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:16.590 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:16.663 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:19.740 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:19.810 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:22.880 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:22.950 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:26.020 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:26.090 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:27:27.720 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:27:27.721 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:37:03.791 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:37:03.780 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:37:03.791 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:37:03.863 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:37:03.867 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:37:03.868 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:37:03.907 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:06.885 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:06.961 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:07.003 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:10.032 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:10.078 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:10.105 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:13.148 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:13.182 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:13.218 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:16.251 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:16.293 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:16.319 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:18.549 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:37:18.549 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:37:19.365 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:19.404 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:19.450 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:21.628 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:22.475 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:22.526 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:22.546 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:24.708 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:25.599 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:25.626 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:25.673 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:27.780 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:28.697 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:28.748 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:28.769 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:29.319 +05:00 [ERR] 88.218.67.143 is bad
+2021-10-29 09:37:29.319 +05:00 [ERR] An error occurred while sending the request.
+2021-10-29 09:37:30.857 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:31.816 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:31.846 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:31.894 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:33.589 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:37:33.589 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:37:33.925 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:34.917 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:34.974 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:34.991 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:36.393 +05:00 [ERR] 83.171.254.57 is bad
+2021-10-29 09:37:36.394 +05:00 [ERR] An error occurred while sending the request.
+2021-10-29 09:37:36.674 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:37.001 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:38.044 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:38.069 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:38.082 +05:00 [ERR] 83.171.254.57 is bad
+2021-10-29 09:37:38.082 +05:00 [ERR] The SSL connection could not be established, see inner exception.
+2021-10-29 09:37:38.122 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:39.740 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:40.084 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:41.140 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:41.199 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:41.220 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:42.821 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:43.151 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:44.271 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:44.296 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:44.347 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:45.900 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:46.232 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:47.366 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:47.432 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:47.446 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:48.635 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:37:48.636 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:37:48.972 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:49.317 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:50.518 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:50.523 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:50.594 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:51.715 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:52.055 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:52.402 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:53.590 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:53.668 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:53.670 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:54.794 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:55.134 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:55.479 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:56.739 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:56.741 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:56.815 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:57.875 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:58.211 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:58.558 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:59.808 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:59.887 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:37:59.889 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:00.951 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:01.284 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:01.637 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:02.958 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:02.959 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:03.036 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:03.671 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:38:03.672 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:38:04.028 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:04.362 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:04.719 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:06.032 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:06.109 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:06.112 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:06.750 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:07.098 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:07.442 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:07.796 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:09.186 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:09.188 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:09.262 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:09.824 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:10.173 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:10.520 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:10.876 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:12.255 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:12.333 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:12.344 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:12.903 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:13.257 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:13.599 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:13.948 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:28.278 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:38:28.278 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:38:28.439 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:38:28.439 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:38:31.394 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:31.465 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:38:31.835 +05:00 [INF] Parsing completed
+2021-10-29 09:38:31.835 +05:00 [INF] Parsing completed
+2021-10-29 09:38:43.060 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:38:43.061 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:38:45.182 +05:00 [INF] Parsing completed
+2021-10-29 09:38:58.040 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:38:58.041 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:38:59.929 +05:00 [INF] Parsing completed
+2021-10-29 09:45:15.812 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:45:15.812 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:45:15.812 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:45:15.865 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:45:15.865 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:45:15.865 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:45:15.983 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:18.907 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:18.987 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:19.071 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:22.088 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:22.148 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:22.160 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:25.220 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:25.237 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:25.290 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:28.320 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:28.371 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:28.392 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:30.522 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:45:30.523 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:45:31.446 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:31.477 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:31.526 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:33.592 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:34.550 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:34.619 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:34.625 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:36.673 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:37.673 +05:00 [ERR] 88.218.67.143 is bad
+2021-10-29 09:45:37.673 +05:00 [ERR] An error occurred while sending the request.
+2021-10-29 09:45:37.693 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:37.702 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:37.776 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:38.940 +05:00 [ERR] 185.77.221.131 is bad
+2021-10-29 09:45:38.940 +05:00 [ERR] An error occurred while sending the request.
+2021-10-29 09:45:39.742 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:40.781 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:40.852 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:40.859 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:42.820 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:43.924 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:43.930 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:44.002 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:45.712 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:45:45.713 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:45:45.899 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:46.437 +05:00 [ERR] 83.171.254.57 is bad
+2021-10-29 09:45:46.438 +05:00 [ERR] The SSL connection could not be established, see inner exception.
+2021-10-29 09:45:47.002 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:47.070 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:47.088 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:48.786 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:48.980 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:50.144 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:50.161 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:50.220 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:51.864 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:52.055 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:53.237 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:53.292 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:53.315 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:54.946 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:55.130 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:56.361 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:56.392 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:56.438 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:58.023 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:58.218 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:59.468 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:59.509 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:45:59.543 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:00.588 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:46:00.588 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:46:01.106 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:01.294 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:02.587 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:02.625 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:02.668 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:03.666 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:04.220 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:04.373 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:05.699 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:05.747 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:05.778 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:06.744 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:07.309 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:07.456 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:08.823 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:08.847 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:08.898 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:09.821 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:10.384 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:10.563 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:11.916 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:11.978 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:11.999 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:12.909 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:13.461 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:13.637 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:15.048 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:15.075 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:15.124 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:15.765 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:46:15.765 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:46:15.993 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:16.557 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:16.710 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:18.145 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:18.194 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:18.227 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:18.850 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:19.071 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:19.648 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:19.790 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:21.265 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:21.299 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:21.342 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:21.927 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:22.149 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:22.721 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:22.867 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:24.369 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:24.425 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:24.456 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:25.033 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:25.233 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:25.795 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:25.940 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:27.495 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:27.525 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:27.581 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:28.108 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:28.323 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:28.881 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:29.018 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:30.595 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:30.659 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:46:30.660 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:46:30.661 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:30.674 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:31.181 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:31.402 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:32.001 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:32.091 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:33.733 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:33.743 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:33.746 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:33.813 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:34.255 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:34.476 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:35.077 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:35.171 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:36.816 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:36.817 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:36.898 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:36.901 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:37.334 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:37.549 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:38.157 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:38.263 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:39.896 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:39.971 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:39.974 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:39.979 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:40.425 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:40.628 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:41.248 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:41.336 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:43.042 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:43.055 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:43.055 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:43.125 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:43.503 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:43.714 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:44.331 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:44.410 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:45.650 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:46:45.650 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:46:46.124 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:46.132 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:46.198 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:46.203 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:46.577 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:46.808 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:47.404 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:47.514 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:48.736 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:49.200 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:49.273 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:49.274 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:49.278 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:49.645 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:49.887 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:50.542 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:50.604 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:51.809 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:52.343 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:52.348 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:52.352 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:52.423 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:52.721 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:52.961 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:53.626 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:53.684 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:54.889 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:55.425 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:55.425 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:55.501 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:55.510 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:55.795 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:56.038 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:56.697 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:56.759 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:57.964 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:58.509 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:58.567 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:58.586 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:58.588 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:58.881 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:59.114 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:59.777 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:46:59.828 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:00.688 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:47:00.689 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:47:01.039 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:01.644 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:01.662 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:01.671 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:01.718 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:01.959 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:02.218 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:02.867 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:02.911 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:03.762 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:04.114 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:04.738 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:04.741 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:04.791 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:04.813 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:05.035 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:05.297 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:05.951 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:05.988 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:06.848 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:07.190 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:07.810 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:07.867 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:07.879 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:07.891 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:08.109 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:08.376 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:09.042 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:09.075 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:09.925 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:10.267 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:10.547 +05:00 [ERR] 185.77.221.131 is bad
+2021-10-29 09:47:10.548 +05:00 [ERR] The operation has timed out.
+2021-10-29 09:47:10.936 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:10.954 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:10.960 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:11.014 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:11.182 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:11.449 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:12.121 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:12.178 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:13.005 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:13.352 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:14.025 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:14.042 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:14.085 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:14.099 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:14.256 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:14.528 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:15.198 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:15.256 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:15.753 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:47:15.753 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:47:16.092 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:16.433 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:17.113 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:17.162 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:17.185 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:17.195 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:17.335 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:17.604 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:17.690 +05:00 [ERR] 83.171.254.57 is bad
+2021-10-29 09:47:17.690 +05:00 [ERR] The operation has timed out.
+2021-10-29 09:47:18.273 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:18.332 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:18.829 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:19.169 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:19.512 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:20.229 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:20.273 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:20.281 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:20.306 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:20.420 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:20.685 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:21.348 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:21.405 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:21.907 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:22.244 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:22.590 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:23.343 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:23.359 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:23.380 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:23.418 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:23.524 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:23.769 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:24.425 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:24.483 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:24.981 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:25.317 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:25.665 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:25.725 +05:00 [ERR] 83.171.254.57 is bad
+2021-10-29 09:47:25.725 +05:00 [ERR] The operation has timed out.
+2021-10-29 09:47:26.433 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:26.449 +05:00 [ERR] 185.77.221.131 is bad
+2021-10-29 09:47:26.449 +05:00 [ERR] The operation has timed out.
+2021-10-29 09:47:26.463 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:26.489 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:26.511 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:26.609 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:26.848 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:27.504 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:27.559 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:28.053 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:28.392 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:28.738 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:29.532 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:29.579 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:29.580 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:29.610 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:29.738 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:29.931 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:30.578 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:30.639 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:30.969 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:47:30.969 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:47:31.132 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:31.470 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:31.810 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:32.725 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:32.728 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:32.731 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:32.809 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:32.812 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:33.011 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:33.657 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:33.717 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:34.047 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:34.215 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:34.553 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:34.888 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:35.864 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:35.870 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:35.881 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:35.892 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:35.939 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:36.085 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:36.737 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:36.794 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:37.123 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:37.290 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:37.628 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:37.965 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:38.939 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:38.956 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:38.959 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:39.014 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:39.018 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:39.164 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:39.810 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:39.869 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:40.198 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:40.368 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:40.599 +05:00 [ERR] 88.218.67.143 is bad
+2021-10-29 09:47:40.600 +05:00 [ERR] The operation has timed out.
+2021-10-29 09:47:40.712 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:41.051 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:42.026 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:42.037 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:42.092 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:42.095 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:42.103 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:42.243 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:42.885 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:42.952 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:43.274 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:43.447 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:43.789 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:44.144 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:45.105 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:45.170 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:45.172 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:45.181 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:45.182 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:45.322 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:45.867 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:47:45.868 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:47:45.962 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:46.028 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:46.352 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:46.526 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:46.869 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:47.221 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:48.243 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:48.249 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:48.261 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:48.265 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:48.319 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:48.403 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:48.946 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:49.041 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:49.110 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:49.428 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:49.601 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:49.949 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:50.300 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:51.342 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:51.344 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:51.344 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:51.398 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:51.416 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:51.486 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:52.031 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:52.122 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:52.196 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:52.510 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:52.675 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:53.024 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:53.378 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:54.419 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:54.421 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:54.467 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:54.492 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:54.496 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:54.567 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:55.113 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:55.200 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:55.277 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:55.622 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:55.758 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:55.788 +05:00 [ERR] 185.77.221.131 is bad
+2021-10-29 09:47:55.789 +05:00 [ERR] The operation has timed out.
+2021-10-29 09:47:56.098 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:56.458 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:57.498 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:57.535 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:57.566 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:57.574 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:57.574 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:57.642 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:58.192 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:58.289 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:58.377 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:58.698 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:58.834 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:47:59.175 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:05.044 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:48:05.044 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:48:05.116 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:48:05.116 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:48:08.184 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:08.264 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:11.360 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:11.434 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:14.515 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:14.589 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:17.672 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:17.747 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:19.658 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:48:19.658 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:48:20.821 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:20.889 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:22.739 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:23.969 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:24.044 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:25.819 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:27.121 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:27.189 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:28.896 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:30.277 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:30.351 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:31.964 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:33.426 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:33.493 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:34.725 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:48:34.725 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:48:35.039 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:36.568 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:36.642 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:37.803 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:38.113 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:39.719 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:39.806 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:40.881 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:41.188 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:42.891 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:42.959 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:43.962 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:44.264 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:46.038 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:46.124 +05:00 [ERR] Telegram API Error: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-29 09:48:52.580 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:48:52.670 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:49:35.934 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-29 09:49:36.000 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-29 09:49:39.312 +05:00 [INF] Parsing completed

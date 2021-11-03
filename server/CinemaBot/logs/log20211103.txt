@@ -1,0 +1,9 @@
+2021-11-03 09:04:42.053 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-03 09:04:42.179 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-03 09:04:48.326 +05:00 [INF] https://nnmclub.to/forum/viewtopic.php?t=1411741 : Слоновья тропа / Elephant Walk (1954) WEB-DLRip [H.264] : https://funkyimg.com/i/37Bi5.jpg
+2021-11-03 09:04:48.330 +05:00 [INF] https://nnmclub.to/forum/viewtopic.php?t=949884 : Смоки и Бандит / Smokey And The Bandit (1977) HDRip [H.264] : http://s020.radikal.ru/i723/1510/e6/faee8d8c6240.jpg
+2021-11-03 09:04:48.334 +05:00 [INF] https://nnmclub.to/forum/viewtopic.php?t=530619 : Золото Маккенны / Mackenna's Gold (1969) DVDRip (Реставрация) : http://i4.imageban.ru/out/2012/08/02/4080eb618213690f2ffc8512579b830f.jpg
+2021-11-03 09:04:51.438 +05:00 [INF] Parsing completed
+2021-11-03 10:11:01.498 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-03 10:11:01.700 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-03 10:11:04.636 +05:00 [INF] Parsing completed

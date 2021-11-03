@@ -1,0 +1,21 @@
+2021-10-28 09:23:43.962 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-28 09:23:43.962 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-28 09:23:44.065 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-28 09:23:44.066 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-28 09:23:44.236 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-28 09:23:47.307 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-28 09:23:47.422 +05:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-10-28 09:23:47.880 +05:00 [INF] Parsing completed
+2021-10-28 09:23:47.887 +05:00 [INF] Parsing completed
+2021-10-28 09:23:58.474 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-28 09:23:58.474 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-28 09:24:00.399 +05:00 [INF] Parsing completed
+2021-10-28 09:24:13.504 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-10-28 09:24:13.505 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-10-28 09:24:15.870 +05:00 [INF] Parsing completed

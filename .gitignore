@@ -357,3 +357,5 @@ MigrationBackup/
 
 config.json
 .idea/
+.env
+pgdata

@@ -1,26 +1,26 @@
 version: '3.4'
 services:
-  server:
-    command: /bin/bash ./bin/prod.sh
-    build:
-      context: ./server
-      dockerfile: Dockerfile
-      args:
-        buildno: 1
-    container_name: dserver
-    env_file: .env
-    volumes:
-      - ./server:/app
-      - ./logs/gunicorn:/var/log/gunicorn
-      - ./frontend/dist/templates:/app/app/templates
-      - ./frontend/dist/static:/app/frontend_static
-    expose:
-      - "8000"
-    depends_on:
-      - db
+#  server:
+#    command: /bin/bash ./bin/prod.sh
+#    build:
+#      context: ./server
+#      dockerfile: Dockerfile
+#      args:
+#        buildno: 1
+#    container_name: dserver
+#    env_file: .env
+#    volumes:
+#      - ./server:/app
+#      - ./logs/gunicorn:/var/log/gunicorn
+#      - ./frontend/dist/templates:/app/app/templates
+#      - ./frontend/dist/static:/app/frontend_static
+#    expose:
+#      - "8000"
+#    depends_on:
+#      - db
 #    ports:
 #      - "8443:8443"
-    restart: always
+#    restart: always
   db:
     image: postgres:14.0
     container_name: ddb
@@ -44,14 +44,14 @@ services:
       - ./nginx/conf:/etc/nginx/conf
       - ./nginx/sites-enabled:/etc/nginx/sites-enabled
       - ./server:/app
-  frontend:
-    command: npm run build
-    build:
-      context: ./frontend
-      dockerfile: Dockerfile
-      args:
-        buildno: 1
-    container_name: dfront
-    volumes:
-      - ./frontend:/app
-      - /app/node_modules
+#  frontend:
+#    command: npm run build
+#    build:
+#      context: ./frontend
+#      dockerfile: Dockerfile
+#      args:
+#        buildno: 1
+#    container_name: dfront
+#    volumes:
+#      - ./frontend:/app
+#      - /app/node_modules

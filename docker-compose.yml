@@ -1,4 +1,4 @@
-version: '3'
+version: '3.4'
 services:
   server:
     command: /bin/bash ./bin/prod.sh
@@ -22,7 +22,7 @@ services:
 #      - "8443:8443"
     restart: always
   db:
-    image: postgres:11.0
+    image: postgres:14.0
     container_name: ddb
     restart: always
     expose:

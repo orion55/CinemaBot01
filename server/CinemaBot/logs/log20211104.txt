@@ -1,0 +1,3 @@
+2021-11-04 09:31:39.150 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-04 09:31:39.286 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-04 09:31:42.039 +05:00 [INF] Parsing completed

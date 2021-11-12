@@ -1,46 +1,47 @@
 version: '3.4'
+
 services:
-#  server:
-#    command: /bin/bash ./bin/prod.sh
-#    build:
-#      context: ./server
-#      dockerfile: Dockerfile
-#      args:
-#        buildno: 1
-#    container_name: dserver
-#    env_file: .env
-#    volumes:
-#      - ./server:/app
-#      - ./logs/gunicorn:/var/log/gunicorn
-#      - ./frontend/dist/templates:/app/app/templates
-#      - ./frontend/dist/static:/app/frontend_static
-#    expose:
-#      - "8000"
-#    depends_on:
-#      - db
-#    ports:
-#      - "8443:8443"
-#    restart: always
   db:
-    image: postgres:14.0
+    image: postgres:alpine
     container_name: ddb
     restart: always
     expose:
       - "5432"
-    env_file: .env
+    environment:
+      - POSTGRES_DB=dbcinema
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_HOST=db
+      - POSTGRES_PORT=5432
     volumes:
       - ./pgdata:/var/lib/postgresql/data
-  nginx:
-    container_name: dnginx
-    restart: always
+  server:
+    container_name: dserver
+    environment:      
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=dbcinema;Username=postgres;Password=postgres;Timeout=100
+    depends_on:
+      - db
+    #restart: always
     build:
-      context: ./nginx/
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: server/CinemaBot/Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:    
+      - ./logs/cinemabot:/app/publish/logs
+  nginx:
+    image: nginx:alpine
+    container_name: dnginx
+    restart: always    
+    #depends_on:
+    #  - server
     ports:
       - "80:80"
-      - "443:443"
     volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
       - ./logs/nginx:/var/log/nginx
-      - ./nginx/conf:/etc/nginx/conf
-      - ./nginx/sites-enabled:/etc/nginx/sites-enabled
-      - ./server:/app
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "8080:8080"

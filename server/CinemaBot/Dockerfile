@@ -1,5 +1,21 @@
-FROM mcr.microsoft.com/dotnet/aspnet:5.0
+FROM mcr.microsoft.com/dotnet/aspnet:5.0 AS base
 WORKDIR /app
-EXPOSE 80
-COPY /publish .
-ENTRYPOINT ["dotnet", "ZoomiLxp.Api.dll"]
+EXPOSE 5000
+
+ENV ASPNETCORE_URLS=http://+:5000
+
+FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
+WORKDIR /src
+COPY ["server/CinemaBot/CinemaBot.csproj", "server/CinemaBot/"]
+RUN dotnet restore "server\CinemaBot\CinemaBot.csproj"
+COPY . .
+WORKDIR "/src/server/CinemaBot"
+RUN dotnet build "CinemaBot.csproj" -c Release -o /app/build
+
+FROM build AS publish
+RUN dotnet publish "CinemaBot.csproj" -c Release -o /app/publish
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "CinemaBot.dll"]

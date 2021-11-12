@@ -1,0 +1,7 @@
+2021-11-10 09:16:16.544 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-10 09:16:16.654 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-10 09:16:20.829 +05:00 [INF] https://nnmclub.to/forum/viewtopic.php?t=1413829 : Боксер и смерть / Boxer a smrt (1963) BDRip [H.264] : https://funkyimg.com/i/37Mjq.jpg
+2021-11-10 09:16:22.887 +05:00 [INF] Parsing completed
+2021-11-10 14:13:53.820 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-10 14:13:54.003 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-10 14:13:57.516 +05:00 [INF] Parsing completed

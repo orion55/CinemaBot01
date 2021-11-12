@@ -1,0 +1,20 @@
+2021-11-12 09:14:36.242 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-12 09:14:36.328 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-12 09:14:57.473 +05:00 [ERR] 37.44.255.247 is bad
+2021-11-12 09:14:57.475 +05:00 [ERR] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера. [::ffff:37.44.255.247]:8085 (37.44.255.247:8085)
+2021-11-12 09:15:07.062 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-12 09:15:07.160 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-12 09:15:28.260 +05:00 [ERR] 194.104.9.169 is bad
+2021-11-12 09:15:28.261 +05:00 [ERR] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера. [::ffff:194.104.9.169]:8085 (194.104.9.169:8085)
+2021-11-12 09:15:37.116 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-12 09:15:37.276 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-12 09:15:57.938 +05:00 [INF] https://nnmclub.to/forum/viewtopic.php?t=1509151 : Лучшие годы нашей жизни / The Best Years of Our Lives (1946) BDRip [H.264] : https://d.radikal.ru/d16/2111/d5/98ce29074648.jpg
+2021-11-12 09:15:58.480 +05:00 [INF] Parsing completed
+2021-11-12 09:17:47.234 +05:00 [INF] Host=localhost;Port=5432;Database=cinemadb;Username=postgres;Password=root;Timeout=100
+2021-11-12 09:17:50.381 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-12 09:17:50.398 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-12 09:17:53.816 +05:00 [INF] Parsing completed
+2021-11-12 10:28:21.719 +05:00 [INF] Host=localhost;Port=5432;Database=cinemadb;Username=postgres;Password=root;Timeout=100
+2021-11-12 10:28:25.287 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-12 10:28:25.309 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-12 10:28:27.897 +05:00 [INF] Parsing completed

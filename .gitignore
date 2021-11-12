@@ -359,3 +359,5 @@ config.json
 .idea/
 .env
 pgdata
+.vscode/
+logs/

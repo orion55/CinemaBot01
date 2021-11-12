@@ -42,7 +42,3 @@ exec: set-container
 
 log: set-container
 	docker-compose logs -f ${c}
-
-#run server local
-dev-local-deps:
-	docker-compose -f docker-compose.yml -f docker-compose-dev.yml up -d --force-recreate db nginx frontend

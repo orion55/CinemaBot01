@@ -17,5 +17,6 @@ RUN dotnet publish "CinemaBot.csproj" -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
+COPY "server/CinemaBot/proxy.txt" .
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "CinemaBot.dll"]

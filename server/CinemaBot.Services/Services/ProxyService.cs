@@ -21,7 +21,7 @@ namespace CinemaBot.Services.Services
 
         private void Init()
         {
-            string proxyFullname = Directory.GetCurrentDirectory() + "\\" + ProxyFilename;
+            string proxyFullname = Path.Combine(Directory.GetCurrentDirectory(), ProxyFilename);
 
             if (!File.Exists(proxyFullname))
             {

@@ -32,8 +32,6 @@ namespace CinemaBot
 
         public Startup()
         {
-            var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") ?? "Development";
-            //var configurationPath = Path.Combine(Directory.GetCurrentDirectory(), $"appsettings.{environment}.json");
             var configurationPath = Path.Combine(Directory.GetCurrentDirectory(), "appsettings.Development.json");
             var builder = new ConfigurationBuilder()
                 .AddJsonFile(configurationPath)
@@ -72,48 +70,37 @@ namespace CinemaBot
 
         public void ConfigureServices(IServiceCollection services)
         {
-            try
-            {
-                services.AddTransient(provider => _configuration);
+            services.AddTransient(provider => _configuration);
 
-                Logger.Information(_configuration.GetConnectionString("DefaultConnection"));
+            services.AddDbContext<ApplicationDbContext>(options =>
+                options
+                    .UseNpgsql(_configuration.GetConnectionString("DefaultConnection")));
 
-                services.AddDbContext<ApplicationDbContext>(options =>
-                    options
-                        .UseNpgsql(_configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            // services.AddScoped<IUrlRepository, UrlRepository>();
 
-                services.AddScoped<IUnitOfWork, UnitOfWork>();
-                // services.AddScoped<IUrlRepository, UrlRepository>();
+            services.AddHangfire(config =>
+                config.UsePostgreSqlStorage(_configuration.GetConnectionString("DefaultConnection")));
+            GlobalConfiguration.Configuration
+                .UsePostgreSqlStorage(_configuration.GetConnectionString("DefaultConnection"))
+                .WithJobExpirationTimeout(TimeSpan.FromDays(7));
+            services.AddHangfireServer();
 
-                services.AddHangfire(config =>
-                    config.UsePostgreSqlStorage(_configuration.GetConnectionString("DefaultConnection")));
-                GlobalConfiguration.Configuration
-                    .UsePostgreSqlStorage(_configuration.GetConnectionString("DefaultConnection"))
-                    .WithJobExpirationTimeout(TimeSpan.FromDays(7));
-                services.AddHangfireServer();
+            var mapperConfig = new MapperConfiguration(mc => { mc.AddProfile(new MappingProfile()); });
 
-                var mapperConfig = new MapperConfiguration(mc => { mc.AddProfile(new MappingProfile()); });
+            _mapper = mapperConfig.CreateMapper();
+            services.AddSingleton(_mapper);
 
-                _mapper = mapperConfig.CreateMapper();
-                services.AddSingleton(_mapper);
+            services.AddTransient<TelegramService>();
+            services.AddTransient<IParserService, ParserService>();
 
-                services.AddTransient<TelegramService>();
-                services.AddTransient<IParserService, ParserService>();
-
-                services.AddSingleton(Logger);
-            }
-            catch (Exception e)
-            {
-                Logger.Error(e.ToString());
-            }
+            services.AddSingleton(Logger);
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env, IParserService parserService,
             IRecurringJobManager recurringJobManager, IBackgroundJobClient backgroundJobClient
         )
         {
-            try
-            {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -149,11 +136,6 @@ namespace CinemaBot
             Job jobscheduler = new Job(Logger, _configuration, parserService);
             backgroundJobClient.Enqueue(() => jobscheduler.Run());
             // recurringJobManager.AddOrUpdate("Runs Every 1 Min", () => jobscheduler.Run(), "0/1 * * * * *");
-            }
-            catch (Exception e)
-            {
-                Logger.Error(e.ToString());
-            }
         }
     }
 }

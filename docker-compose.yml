@@ -17,24 +17,30 @@ services:
       - ./pgdata:/var/lib/postgresql/data
   server:
     container_name: dserver
-    environment:      
+    environment:
+      - ASPNETCORE_URLS=http://+:5000
       - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=dbcinema;Username=postgres;Password=postgres;Timeout=100
+      - useProxy=true
     depends_on:
       - db
-    #restart: always
+    restart: always
     build:
       context: .
       dockerfile: server/CinemaBot/Dockerfile
     ports:
       - "5000:5000"
+      - "8501:8501"
+      - "8502:8502"
+      - "8503:8503"
+      - "8504:8504"
     volumes:    
-      - ./logs/cinemabot:/app/publish/logs
+      - ./logs/cinemabot:/app/logs
   nginx:
     image: nginx:alpine
     container_name: dnginx
     restart: always    
-    #depends_on:
-    #  - server
+    depends_on:
+      - server
     ports:
       - "80:80"
     volumes:
@@ -42,6 +48,9 @@ services:
       - ./logs/nginx:/var/log/nginx
   adminer:
     image: adminer
+    container_name: dadminer
     restart: always
+    depends_on:
+      - db
     ports:
       - "8080:8080"

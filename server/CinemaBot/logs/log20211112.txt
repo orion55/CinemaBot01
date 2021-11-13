@@ -18,3 +18,9 @@
 2021-11-12 10:28:25.287 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
 2021-11-12 10:28:25.309 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
 2021-11-12 10:28:27.897 +05:00 [INF] Parsing completed
+2021-11-12 17:16:23.653 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-12 17:16:23.886 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-12 17:16:26.880 +05:00 [INF] Parsing completed
+2021-11-12 17:17:09.251 +05:00 [INF] Start listening for @Old_Foreign_Films_bot
+2021-11-12 17:17:09.326 +05:00 [INF] Parse url: https://nnmclub.to/forum/viewforum.php?f=319
+2021-11-12 17:17:11.884 +05:00 [INF] Parsing completed

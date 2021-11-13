@@ -20,10 +20,7 @@ namespace CinemaBot
                     webBuilder.UseStartup<Startup>();
                     webBuilder.UseKestrel(opts =>
                     {
-                        opts.Listen(IPAddress.Loopback, port: 8501);
-                        opts.ListenAnyIP(8502);
-                        opts.ListenLocalhost(8503);
-                        opts.ListenLocalhost(8504, opts => opts.UseHttps());
+                        opts.ListenAnyIP(5000);
                     });
                 });
     }

@@ -47,7 +47,6 @@ namespace CinemaBot.Services.Services
             ApplicationDbContext context = new ApplicationDbContext(contextOptions);
             context.Database.Migrate();
             _urlRepository = new UrlRepository(context);
-            
 
             _useProxy = ToBoolean(configuration["useProxy"]);
             _exceptionIds = configuration.GetSection("exceptionIds").Get<int[]>();
@@ -62,14 +61,14 @@ namespace CinemaBot.Services.Services
         public async void Parser(string url)
         {
             await _telegram.GetBotClientAsync();
-            
+
             int[] ids = MainPageParser(url);
             var resultIds = await CheckIds(ids);
-            
+
             if (resultIds.Length != 0)
             {
                 List<UrlModel> links = await SecondPagesParser(resultIds);
-                
+
                 SaveToLog(links);
 
                 await _telegram.SendMessageMovies(links);
@@ -101,6 +100,7 @@ namespace CinemaBot.Services.Services
                             _currentProxy.Password)
                         : web.Load(url);
 
+                    if (doc == null) return null;
                     var nodes = doc.DocumentNode.SelectNodes("//a[@class='topictitle']");
 
                     int count = nodes.Count;
@@ -118,6 +118,8 @@ namespace CinemaBot.Services.Services
                 }
                 catch (Exception ex)
                 {
+                    _log.Error(ex.Message);
+                    
                     if (ex is WebException)
                     {
                         if (_useProxy)
@@ -136,7 +138,7 @@ namespace CinemaBot.Services.Services
                         }
                     }
 
-                    _log.Error(ex.Message);
+                    
                 }
             } while (isStarting);
 
@@ -168,7 +170,7 @@ namespace CinemaBot.Services.Services
             List<UrlModel> results = new List<UrlModel>();
             foreach (var task in tasks)
             {
-                var result = ((Task<UrlModel>)task).Result;
+                var result = ((Task<UrlModel>) task).Result;
                 if (result != null)
                     results.Add(result);
             }
@@ -178,8 +180,9 @@ namespace CinemaBot.Services.Services
 
         private UrlModel GetUrl(int id)
         {
-            var proxy = _serviceProxy.GetRandomProxy() ??
-                        throw new Exception("The proxy list is empty");
+            var proxy = _useProxy
+                ? _serviceProxy.GetRandomProxy() ?? throw new Exception("The proxy list is empty")
+                : null;
             int i = 0;
             bool isStarting = false;
             var url = Constants.NnmClubTopic + "?t=" + Convert.ToString(id);

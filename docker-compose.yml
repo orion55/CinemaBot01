@@ -19,7 +19,7 @@ services:
     container_name: dserver
     environment:
       - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=dbcinema;Username=postgres;Password=postgres;Timeout=100
-      - useProxy=true
+      - useProxy=false
     depends_on:
       - db
     restart: always

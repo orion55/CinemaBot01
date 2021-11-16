@@ -134,8 +134,8 @@ namespace CinemaBot
             });
 
             Job jobscheduler = new Job(Logger, _configuration, parserService);
-            backgroundJobClient.Enqueue(() => jobscheduler.Run());
-            // recurringJobManager.AddOrUpdate("Runs Every 1 Min", () => jobscheduler.Run(), "0/1 * * * * *");
+            // backgroundJobClient.Enqueue(() => jobscheduler.Run());
+            recurringJobManager.AddOrUpdate("Runs Every 1 Hour", () => jobscheduler.Run(), "0 * * * *");
         }
     }
 }

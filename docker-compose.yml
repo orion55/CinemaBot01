@@ -41,11 +41,11 @@ services:
     volumes:
       - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
       - ./logs/nginx:/var/log/nginx
-  adminer:
-    image: adminer
-    container_name: dadminer
-    restart: always
-    depends_on:
-      - db
-    ports:
-      - "8080:8080"
+#  adminer:
+#    image: adminer
+#    container_name: dadminer
+#    restart: always
+#    depends_on:
+#      - db
+#    ports:
+#      - "8080:8080"
